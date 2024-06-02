@@ -30,13 +30,16 @@ pip install numpy pandas scikit-learn matplotlib ipython
 
 ## Usage
 
-- 1 Clone the repository: ```bash
+- 1 Clone the repository:
+```bash
 git clone https://github.com/yourusername/google-launchpad-finding-donors.git
 cd google-launchpad-finding-donors
 ```
 
-- 2 Open the Jupyter Notebook: ```jupyter notebook finding_donors.ipynb```
-
+- 2 Open the Jupyter Notebook:
+``` bash
+jupyter notebook finding_donors.ipynb
+```
 - 3 Follow the steps in the notebook to run the analysis and model evaluations.
 
 ## Project Structure
