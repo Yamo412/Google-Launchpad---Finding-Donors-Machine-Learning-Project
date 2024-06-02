@@ -32,7 +32,8 @@ pip install numpy pandas scikit-learn matplotlib ipython
 
 - 1 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/google-launchpad-finding-donors.git
+git clone https://github.com/Yamo412/Google-Launchpad---Finding-Donors-Machine-Learning-Project
+.git
 cd google-launchpad-finding-donors
 ```
 
