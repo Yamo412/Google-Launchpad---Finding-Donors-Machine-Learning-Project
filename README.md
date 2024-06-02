@@ -34,7 +34,7 @@ pip install numpy pandas scikit-learn matplotlib ipython
 ```bash
 git clone https://github.com/Yamo412/Google-Launchpad---Finding-Donors-Machine-Learning-Project
 .git
-cd google-launchpad-finding-donors
+cd Google-Launchpad---Finding-Donors-Machine-Learning-Project
 ```
 
 - 2 Open the Jupyter Notebook:
